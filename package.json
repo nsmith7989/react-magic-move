@@ -33,9 +33,6 @@
     "webpack": "1.4.5",
     "webpack-dev-server": "1.6.5"
   },
-  "peerDependencies": {
-    "react": "0.12.x"
-  },
   "tags": [
     "react",
     "animation"
