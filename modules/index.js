@@ -1,2 +1,2 @@
-module.exports = require('./components/MagicMove');
+require('./components/MagicMove.jsx');
 
